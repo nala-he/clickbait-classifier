@@ -18,6 +18,3 @@ ENV/
 
 # Model files (if you want to exclude them)
 *.pkl
-
-# Compressed data files (if you want to include them, remove these lines)
-*.gz
