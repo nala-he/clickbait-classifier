@@ -11,6 +11,8 @@ The dataset consists of 32,000 headlines:
 - Clickbait headlines from BuzzFeed, Upworthy, ViralNova
 - Non-clickbait headlines from WikiNews, NYT, The Guardian, and The Hindu
 
+Source: [Stop Clickbait Dataset](https://github.com/bhargaviparanjape/clickbait)
+
 ## Features
 - Text preprocessing and feature extraction
 - Model training and evaluation
